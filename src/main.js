@@ -4,3 +4,4 @@ import router from './router';
 
 createApp(App).use(router).mount('#app')
 
+// this is the main.js
